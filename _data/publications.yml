@@ -6,6 +6,9 @@ papers:
     volume: e2020GC009240
     pages:
     doi: 10.1029/2020GC009240
+    dataset: https://github.com/drhodrid/Davies_etal_NGeo_2019_Datasets
+    preprint: https://www.essoar.org/doi/10.1002/essoar.10503393.2
+    repository: https://github.com/valentineap/DynamicTopographyGP
 
   - title: "Gaussian process models &mdash; II. Lessons for discrete inversion"
     year: 2020
@@ -30,6 +33,7 @@ papers:
     volume: 12
     pages: 845-850
     doi: 10.1038/s41561-019-0441-4
+    dataset: https://github.com/drhodrid/Davies_etal_NGeo_2019_Datasets
 
   - title: Hydrogeological Bayesian hypothesis testing through trans-dimensional sampling of a stochastic water balance model
     year: 2019
@@ -38,6 +42,7 @@ papers:
     volume: 11
     pages: 1463
     doi: 10.3390/w11071463
+    pdf: Enemark2019.pdf
 
   - title: "Optimal regularisation for a class of linear inverse problem"
     year: 2018
@@ -46,6 +51,8 @@ papers:
     volume: 215
     pages: 1003-1021
     doi: 10.1093/gji/ggy303
+    pdf: Valentine2018.pdf
+    repository: https://github.com/valentineap/optimal-regularisation
 
   - title: "Hamilton's principle and normal mode coupling in an aspherical planet with a fluid core"
     year: 2018
@@ -54,6 +61,7 @@ papers:
     volume: 214
     pages: 485-507
     doi: 10.1093/gji/ggy141
+    pdf: AlAttar2018.pdf
 
   - title: "Exact free oscillation spectra, splitting functions and the resolvability of Earth's density structure"
     year: 2018
@@ -62,6 +70,7 @@ papers:
     volume: 213
     pages: 58-76
     doi: 10.1093/gji/ggx539
+    pdf: Akbarashrafi2018.pdf
 
   - title: "Probabilistic point source inversion of strong-motion data in 3D media using pattern recognition: A case study for the 2008 Mw5.4 Chino Hills earthquake"
     year: 2016
@@ -70,6 +79,7 @@ papers:
     volume: 43
     pages: 8492-8498
     doi: 10.1002/2016GL069887
+    pdf: Kaufl2016a.pdf
 
   - title: Using pattern recognition to infer parameters governing mantle convection
     year: 2016
@@ -78,6 +88,7 @@ papers:
     volume: 257
     pages: 171-186
     doi: 10.1016/j.pepi.2016.05.016
+    pdf: Atkins2016.pdf
 
   - title: Solving probabilistic inverse problems rapidly with prior samples
     year: 2016
@@ -86,6 +97,7 @@ papers:
     volume: 205
     pages: 1710-1728
     doi: 10.1093/gji/ggw108
+    pdf: Kaufl2016.pdf
 
   - title: An introduction to learning algorithms and potential applications in geomorphometry and earth surface dynamics
     year: 2016
@@ -94,6 +106,7 @@ papers:
     volume: 4
     pages: 445-460
     doi: 10.5194/esurf-4-445-2016
+    pdf: Valentine2016a.pdf
 
   - title: The impact of approximations and arbitrary choices on geophysical images
     year: 2016
@@ -102,6 +115,7 @@ papers:
     volume: 204
     pages: 59-73
     doi: 10.1093/gji/ggv440
+    pdf: Valentine2016.pdf
 
   - title: Robust and fast probabilistic source parameter estimation from near-field displacement waveforms using pattern recognition
     year: 2015
@@ -110,6 +124,7 @@ papers:
     volume: 105
     pages: 2299-2312
     doi: 10.1785/0120150010
+    pdf: Kaufl2015.pdf
 
   - title: Bayesian inversion of free oscillations for Earth's radial (an)elastic structure
     year: 2014
@@ -118,6 +133,7 @@ papers:
     volume: 237
     pages: 1-17
     doi: 10.1016/j.pepi.2014.09.004
+    pdf: Wit2014.pdf
 
   - title: "A framework for fast probabilistic centroid&ndash;moment-tensor determination &mdash; Inversion of regional static displacement measurements"
     year: 2014
@@ -126,6 +142,7 @@ papers:
     volume: 196
     pages: 1676-1693
     doi: 10.1093/gji/ggt473
+    pdf: Kaufl2014.pdf
 
   - title: "Bayesian inference of Earth's radial seismic structure from body wave travel times using neural networks"
     year: 2013
@@ -134,6 +151,7 @@ papers:
     volume: 195
     pages: 408-422
     doi: 10.1093/gji/ggt220
+    pdf: Wit2013.pdf
 
   - title: "Discovery and analysis of topographic features using learning algorithms: A seamount case-study"
     year: 2013
@@ -142,6 +160,7 @@ papers:
     volume: 40
     pages: 3048-3054
     doi: 10.1002/grl.50615
+    pdf: Valentine2013.pdf
 
   - title: "Earthquake source parameters from GPS-measured static displacements with potential for real-time application"
     year: 2013
@@ -150,6 +169,7 @@ papers:
     volume: 40
     pages: 60-65
     doi: 10.1029/2012GL054209
+    pdf: OToole2013.pdf
 
   - title: "Assessing the uncertainties on seismic source parameters: Towards realistic error estimates for centroid-moment tensor determinations"
     year: 2012
@@ -158,6 +178,7 @@ papers:
     volume: 210-211
     pages: 36-49
     doi: 10.1016/j.pepi.2012.08.003
+    pdf: Valentine2012a.pdf
 
   - title: "Centroid-moment tensor inversions using high-rate GPS waveforms"
     year: 2012
@@ -166,6 +187,7 @@ papers:
     volume: 191
     pages: 257-270
     doi: 10.1111/j.1365-246X.2012.05608.x
+    pdf: OToole2012.pdf
 
   - title: "Data space reduction, quality assessment and searching of seismograms: autoencoder networks for waveform data"
     year: 2012
@@ -174,6 +196,7 @@ papers:
     volume: 189
     pages: 1183-1202
     doi: 10.1111/j.1365-246X.2012.05429.x
+    pdf: Valentine2012.pdf
 
   - title: Approaches to automatic data selection for global seismic tomography
     year: 2010
@@ -182,7 +205,7 @@ papers:
     volume: 182
     pages: 1001-1012
     doi: 10.1111/j.1365-246X.2010.04658.x
-    pdf:
+    pdf: Valentine2010a.pdf
 
   - title: "Reducing errors in seismic tomography: Combined inversion for sources and structure"
     year: 2010
@@ -191,3 +214,4 @@ papers:
     volume: 180
     pages: 847-857
     doi: 10.1111/j.1365-246X.2010.04658.x
+    pdf: Valentine2010.pdf
