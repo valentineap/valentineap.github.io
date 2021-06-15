@@ -80,6 +80,7 @@ papers:
     pages: 8492-8498
     doi: 10.1002/2016GL069887
     pdf: Kaufl2016a.pdf
+    supplement: Kaufl2016a_supp.pdf
 
   - title: Using pattern recognition to infer parameters governing mantle convection
     year: 2016
@@ -161,6 +162,8 @@ papers:
     pages: 3048-3054
     doi: 10.1002/grl.50615
     pdf: Valentine2013.pdf
+    supplement: Valentine2013_supp.pdf
+
 
   - title: "Earthquake source parameters from GPS-measured static displacements with potential for real-time application"
     year: 2013
