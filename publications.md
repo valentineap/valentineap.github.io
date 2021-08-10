@@ -6,7 +6,10 @@ My Google Scholar profile can be found [here](https://scholar.google.co.uk/citat
 
 <ol reversed>
 {%- for _p in site.data.publications.papers -%}
-  <li> {{ _p.authors}}, {{ _p.year }}.<br />{{ _p.title }}.<br /><i>{{ _p.journal }}</i>, {{ _p.volume }}{%- if _p.pages -%}, pp.{{ _p.pages }}{%- endif -%}. doi:<a href="https://dx.doi.org/{{ _p.doi }}">{{ _p.doi }}</a> <br />
+  <li> {{ _p.authors}}, {{ _p.year }}.<br />{{ _p.title }}.<br />
+  {%- if _p.journal or _p.volume or _p.pages or _p.doi -%}
+  <i>{{ _p.journal }}</i>, {{ _p.volume }}{%- if _p.pages -%}, pp.{{ _p.pages }}{%- endif -%}. doi:<a href="https://dx.doi.org/{{ _p.doi }}">{{ _p.doi }}</a> <br />
+  {%- endif -%}
   {%- if _p.repository or _p.pdf or _p.supplement or _p.preprint or _p.info or _p.dataset -%}
   {%- if _p.pdf -%}
     <a href="{{ site.baseurl }}/files/{{ _p.pdf }}"><i class="fas fa-file-pdf"></i> Paper</a>&nbsp;&nbsp;

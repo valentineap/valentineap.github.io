@@ -238,6 +238,7 @@
   h2 {
     @include relative-font-size(1.5);
     border-bottom: 1px solid $brand-color;
+    margin-top: 1.5*$spacing-unit;
 
 
   }

@@ -1,4 +1,11 @@
 papers:
+  - title: "Inferring material properties of the lower mantle minerals using
+mixture density networks"
+    year: <em>in press</em>
+    authors: A. Rijal, L. Cobden, J. Trampert, J. Jackson and <b>A. Valentine</b>
+    journal: Physics of the Earth and Planetary Interiors
+    doi: 10.1016/j.pepi.2021.106784
+
   - title: "Global models from sparse data: A robust estimate of Earth's residual topography spectrum"
     year: 2020
     authors: <b>A.P. Valentine</b> and D.R. Davies
@@ -34,6 +41,8 @@ papers:
     pages: 845-850
     doi: 10.1038/s41561-019-0441-4
     dataset: https://github.com/drhodrid/Davies_etal_NGeo_2019_Datasets
+    pdf: Davies2019.pdf
+    supplement: Davies2019_supp.pdf
 
   - title: Hydrogeological Bayesian hypothesis testing through trans-dimensional sampling of a stochastic water balance model
     year: 2019
@@ -43,6 +52,7 @@ papers:
     pages: 1463
     doi: 10.3390/w11071463
     pdf: Enemark2019.pdf
+    supplement: Enemark2019_supp.zip
 
   - title: "Optimal regularisation for a class of linear inverse problem"
     year: 2018
@@ -81,6 +91,7 @@ papers:
     doi: 10.1002/2016GL069887
     pdf: Kaufl2016a.pdf
     supplement: Kaufl2016a_supp.pdf
+    dataset: http://www.geo.uu.nl/~jeannot/JTweb/downloads/Whittier_3D.tar.gz
 
   - title: Using pattern recognition to infer parameters governing mantle convection
     year: 2016
@@ -216,5 +227,5 @@ papers:
     journal: Geophysical Journal International
     volume: 180
     pages: 847-857
-    doi: 10.1111/j.1365-246X.2010.04658.x
+    doi: 10.1111/j.1365-246X.2009.04452.x
     pdf: Valentine2010.pdf

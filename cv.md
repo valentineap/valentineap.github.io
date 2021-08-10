@@ -5,7 +5,7 @@ title: CV
 
 ## Education
 
-- 2006-2010 &mdash; DPhil Earth Sciences, University of Oxford. *Supervisor*: Prof. J.H. Woodhouse, FRS.<br />"Imaging the Earth: Methods and Algorithms for Global Seismic Tomography"
+- 2006-2010 &mdash; DPhil Earth Sciences, University of Oxford. *Supervisor*: Prof. J.H. Woodhouse, FRS.<br />*Imaging the Earth: Methods and Algorithms for Global Seismic Tomography*
 - 2002-2006 &mdash; BA (Hons.)/MSci Natural Sciences (Physics), University of Cambridge.
 
 ## Academic employment
@@ -27,8 +27,8 @@ title: CV
 ## PhD student supervision
 
 I have been formally named as (co-)supervisor for the following completed PhD theses:
-- Suzanne Atkins, [Finding the patterns in mantle convection](http://dspace.library.uu.nl/bitstream/handle/1874/349108/Atkins.pdf), Utrecht University, 2017.
-- Paul Käufl, [Rapid probabilistic source inversion using pattern recognition](https://dspace.library.uu.nl/bitstream/handle/1874/321502/kaufl.pdf), Utrecht University, 2016.
-- Ralph de Wit, [Revisiting Earth's radial seismic structure with a Bayesian neural network approach](https://dspace.library.uu.nl/bitstream/handle/1874/315583/dewit.pdf), Utrecht University, 2015.
+- Suzanne Atkins, [*Finding the patterns in mantle convection*](http://dspace.library.uu.nl/bitstream/handle/1874/349108/Atkins.pdf), Utrecht University, 2017.
+- Paul Käufl, [*Rapid probabilistic source inversion using pattern recognition*](https://dspace.library.uu.nl/bitstream/handle/1874/321502/kaufl.pdf), Utrecht University, 2016.
+- Ralph de Wit, [*Revisiting Earth's radial seismic structure with a Bayesian neural network approach*](https://dspace.library.uu.nl/bitstream/handle/1874/315583/dewit.pdf), Utrecht University, 2015.
 
 In addition, I have served as a thesis committee member or informal advisor for numerous students.
