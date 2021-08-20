@@ -1,4 +1,10 @@
 papers:
+  - title: "Structure and properties of alkali aluminosilicate glasses and melts: insights from deep learning"
+    year: <em>in press</em>
+    authors: C. Le Losq, <b>A.P. Valentine</b>, B.O. Mysen & D.R. Neuville
+    journal: Geochimica et Cosmochimica Acta
+    repository: https://github.com/charlesll/i-melt
+
   - title: "Inferring material properties of the lower mantle minerals using
 mixture density networks"
     year: <em>in press</em>
