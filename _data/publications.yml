@@ -1,4 +1,23 @@
 papers:
+  # - title:
+  #   authors: B. Turunçtur, <b>A.P. Valentine</b> & M. Sambridge
+  #   year: <em>in press</em>
+  #
+  # - title:
+  #   authors: M. Scheiter, <b>A.P. Valentine</b> & M. Sambridge
+  #   year: <em>in press</em>
+  #
+  # - title: Geophysical inversion and optimal transport
+  #   authors: M. Sambridge, A. Jackson & <b>A.P. Valentine</b>
+  #   year: <em>in press</em>
+  #
+  # - title: "Emerging directions in geophysical inversion"
+  #   authors: <b>A.P. Valentine</b> & M. Sambridge
+  #   year: <em>in press</em>
+  #   booktitle: Data assimilation and inverse problems in geophysical sciences
+  #   editors: A. Ismail-Zadeh, F. Castelli & S. Sanchez
+  #   publisher: Cambridge University Press
+
   - title: "Structure and properties of alkali aluminosilicate glasses and melts: insights from deep learning"
     year: <em>in press</em>
     authors: C. Le Losq, <b>A.P. Valentine</b>, B.O. Mysen & D.R. Neuville
@@ -7,10 +26,12 @@ papers:
 
   - title: "Inferring material properties of the lower mantle minerals using
 mixture density networks"
-    year: <em>in press</em>
+    year: 2021
     authors: A. Rijal, L. Cobden, J. Trampert, J. Jackson and <b>A. Valentine</b>
     journal: Physics of the Earth and Planetary Interiors
+    volume: 319
     doi: 10.1016/j.pepi.2021.106784
+    pdf: Rijal2021.pdf
 
   - title: "Global models from sparse data: A robust estimate of Earth's residual topography spectrum"
     year: 2020
@@ -38,6 +59,16 @@ mixture density networks"
     volume: 220
     pages: 1632-1647
     doi: 10.1093/gji/ggz520
+
+  - title: "Ambient noise tomography of Australia: application to AusArray deployment"
+    year: 2020
+    authors: B. Hejrani, R. Hassan, A. Gorbatov, M. Sambridge, R. Hawkins, <b>A. Valentine</b>, K. Czarnota & J. Zhao
+    editors: K. Czarnota, I. Roach, S. Abbott, M. Haynes, N. Kositcin, A. Ray & E. Slatter
+    booktitle: "Exploring for the Future: Extended Abstracts"
+    publisher: Geoscience Australia
+    doi: 10.11636/135130
+    pdf: Hejrani2020.pdf
+    dataset: files/Hejrani2020_supp.zip
 
   - title: "Earth's multi-scale topographic response to global mantle flow"
     year: 2019

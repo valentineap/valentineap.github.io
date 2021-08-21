@@ -7,8 +7,11 @@ My Google Scholar profile can be found [here](https://scholar.google.co.uk/citat
 <ol reversed>
 {%- for _p in site.data.publications.papers -%}
   <li> {{ _p.authors}}, {{ _p.year }}.<br />{{ _p.title }}.<br />
-  {%- if _p.journal or _p.volume or _p.pages or _p.doi -%}
+  {%- if _p.journal or _p.volume or _p.pages -%}
   <i>{{ _p.journal }}</i>{%- if _p.volume -%}, {{ _p.volume }}{%- endif -%}{%- if _p.pages -%}, pp.{{ _p.pages }}{%- endif -%}. {%- if _p.doi -%} &nbsp;doi:<a href="https://dx.doi.org/{{ _p.doi }}">{{ _p.doi }}</a>{%- endif -%} <br />
+  {%- endif -%}
+  {%- if _p.booktitle -%}
+  in{%- if _p.editors -%}&nbsp;{{ _p.editors }} (eds.),{%- endif -%}&nbsp;<i>{{ _p.booktitle }}</i>, {{ _p.publisher }}. {%- if _p.doi -%} &nbsp;doi:<a href="https://dx.doi.org/{{ _p.doi }}">{{ _p.doi }}</a>{%- endif -%}<br />
   {%- endif -%}
   {%- if _p.repository or _p.pdf or _p.supplement or _p.preprint or _p.info or _p.dataset -%}
   {%- if _p.pdf -%}
