@@ -13,15 +13,20 @@ papers:
   #
   # - title: "Emerging directions in geophysical inversion"
   #   authors: <b>A.P. Valentine</b> & M. Sambridge
-  #   year: <em>in press</em>
+  #   year: <em>in review</em>
   #   booktitle: Data assimilation and inverse problems in geophysical sciences
   #   editors: A. Ismail-Zadeh, F. Castelli & S. Sanchez
   #   publisher: Cambridge University Press
 
   - title: "Structure and properties of alkali aluminosilicate glasses and melts: insights from deep learning"
-    year: <em>in press</em>
+    year: 2021
     authors: C. Le Losq, <b>A.P. Valentine</b>, B.O. Mysen & D.R. Neuville
     journal: Geochimica et Cosmochimica Acta
+    volume: 314
+    pages: 27-54
+    doi: 10.1016/j.gca.2021.08.023
+    pdf: LeLosq2021.pdf
+    supplement: LeLosq2021_supp.docx
     repository: https://github.com/charlesll/i-melt
 
   - title: "Inferring material properties of the lower mantle minerals using
