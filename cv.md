@@ -19,7 +19,6 @@ title: CV
 - Geophysical Journal International Outstanding Reviewer citation (2016, 2019)
 - Geophysical Journal International Student Author Award (2010)
 
-
 ## Major roles and responsibilities
 - 2020-present &mdash; Editor, [Geophysical Journal International](https://academic.oup.com/gji).
 - 2020-present &mdash; Seismology Steering Committee member, [CIG](https://geodynamics.org).
