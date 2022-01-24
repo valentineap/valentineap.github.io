@@ -3,14 +3,22 @@ papers:
   #   authors: B. Turunçtur, <b>A.P. Valentine</b> & M. Sambridge
   #   year: <em>in press</em>
   #
-  # - title:
+  # - title: Upscaling and downscaling geophysical model ensembles with generative models
   #   authors: M. Scheiter, <b>A.P. Valentine</b> & M. Sambridge
-  #   year: <em>in press</em>
+  #   year: <em>in review</em>
   #
   # - title: Geophysical inversion and optimal transport
   #   authors: M. Sambridge, A. Jackson & <b>A.P. Valentine</b>
-  #   year: <em>in press</em>
-  #
+  #   year: <em>in review</em>
+
+  - title: "pyprop8: A lightweight code to simulate seismic observables in a layered half-space"
+    authors: <b>A.P. Valentine</b> & M. Sambridge
+    year: <em>in review</em>
+    journal: Journal of Open Source Software
+    doi: 10.21105/joss.03858s
+    repository: https://github.com/valentineap/pyprop8
+
+
   - title: "Emerging directions in geophysical inversion"
     authors: <b>A.P. Valentine</b> & M. Sambridge
     year: <em>in review</em>
@@ -29,6 +37,8 @@ papers:
     pdf: LeLosq2021.pdf
     supplement: LeLosq2021_supp.docx
     repository: https://github.com/charlesll/i-melt
+    blog: https://medium.com/pytorch/from-windows-to-volcanoes-how-pytorch-is-helping-us-understand-glass-8720d480f4f2
+    interactive: https://share.streamlit.io/charlesll/i-melt/imelt_streamlit.py
 
   - title: "Inferring material properties of the lower mantle minerals using
 mixture density networks"
@@ -56,6 +66,7 @@ mixture density networks"
     journal: Geophysical Journal International
     volume: 220
     pages: 1648-1656
+    pdf: Valentine2020a.pdf
     doi: 10.1093/gji/ggz521
 
   - title: "Gaussian process models &mdash; I. A framework for probabilistic continuous inverse theory"
@@ -64,6 +75,7 @@ mixture density networks"
     journal: Geophysical Journal International
     volume: 220
     pages: 1632-1647
+    pdf: Valentine2020.pdf
     doi: 10.1093/gji/ggz520
 
   - title: "Ambient noise tomography of Australia: application to AusArray deployment"

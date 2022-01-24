@@ -13,7 +13,7 @@ My Google Scholar profile can be found [here](https://scholar.google.co.uk/citat
   {%- if _p.booktitle -%}
   In{%- if _p.editors -%}&nbsp;{{ _p.editors }} (eds.),{%- endif -%}&nbsp;<i>{{ _p.booktitle }}</i>, {{ _p.publisher }}. {%- if _p.doi -%} &nbsp;doi:<a href="https://dx.doi.org/{{ _p.doi }}">{{ _p.doi }}</a>{%- endif -%}<br />
   {%- endif -%}
-  {%- if _p.repository or _p.pdf or _p.supplement or _p.preprint or _p.info or _p.dataset -%}
+  {%- if _p.repository or _p.pdf or _p.supplement or _p.preprint or _p.info or _p.dataset or _p.blog -%}
   {%- if _p.pdf -%}
     <a href="{{ site.baseurl }}/files/{{ _p.pdf }}"><i class="fas fa-file-pdf"></i> Paper</a>&nbsp;&nbsp;
   {%- endif -%}
@@ -23,11 +23,17 @@ My Google Scholar profile can be found [here](https://scholar.google.co.uk/citat
   {%- if _p.preprint -%}
     <a href="{{ _p.preprint }}"><i class="fas fa-book-reader"></i> Preprint</a>&nbsp;&nbsp;
   {%- endif -%}
+  {%- if _p.blog -%}
+    <a href="{{ _p.blog }}"><i class="fas fa-newspaper"></i> Perspective</a>&nbsp;&nbsp;
+  {%- endif -%}
   {%- if _p.dataset -%}
     <a href="{{ _p.dataset }}"><i class="fas fa-database"></i> Dataset</a>&nbsp;&nbsp;
   {%- endif -%}
   {%- if _p.repository -%}
     <a href="{{ _p.repository }}"><i class="fab fa-github"></i> Code</a>&nbsp;&nbsp;
+  {%- endif -%}
+  {%- if _p.interactive -%}
+    <a href="{{ _p.interactive }}"><i class="fas fa-cogs"></i> Interactive</a>&nbsp;&nbsp;
   {%- endif -%}
   {%- if _p.info -%}
     <a href="{{ _p.info }}"><i class="fas fa-angle-double-right"></i> More...</a>&nbsp;&nbsp;
