@@ -27,6 +27,7 @@ papers:
     authors: M. Scheiter, <b>A.P. Valentine</b> & M. Sambridge
     year: <em>in press</em>
     journal: Geophysical Journal International
+    doi: 10.1093/gji/ggac100
     repository: https://github.com/MScheiter/gan_mcmc
 
   - title: "Structure and properties of alkali aluminosilicate glasses and melts: insights from deep learning"
