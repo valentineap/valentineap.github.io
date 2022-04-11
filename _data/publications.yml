@@ -3,10 +3,9 @@ papers:
   #   authors: B. Turunçtur, <b>A.P. Valentine</b> & M. Sambridge
   #   year: <em>in review</em>
   #
-  # - title: Geophysical inversion and optimal transport
-  #   authors: M. Sambridge, A. Jackson & <b>A.P. Valentine</b>
-  #   year: 2022
-  #   journal: Geophysical Journal International
+
+
+
 
   - title: "pyprop8: A lightweight code to simulate seismic observables in a layered half-space"
     authors: <b>A.P. Valentine</b> & M. Sambridge
@@ -14,10 +13,23 @@ papers:
     journal: Journal of Open Source Software
     repository: https://github.com/valentineap/pyprop8
 
+  - title: Geophysical inversion and optimal transport
+    authors: M. Sambridge, A. Jackson & <b>A.P. Valentine</b>
+    year: <em>in press</em>
+    journal: Geophysical Journal International
+
+  - title: "Observations and models of dynamic topography: Current status and future directions"
+    authors: D.R. Davies, S. Ghelichkhan, M.J. Hoggard, <b>A.P. Valentine</b> and F.D. Richards
+    year: <em>in press</em>
+    booktitle: Dynamics of plate tectonics and mantle convection
+    editors: J.C. Duarte
+    publisher: Elsevier
+    preprint: https://eartharxiv.org/repository/view/3251/
+    repository: https://github.com/valentineap/DynamicTopographyGP
 
   - title: "Emerging directions in geophysical inversion"
     authors: <b>A.P. Valentine</b> & M. Sambridge
-    year: <em>in review</em>
+    year: <em>in press</em>
     #booktitle: Data assimilation and inverse problems in geophysical sciences
     #editors: A. Ismail-Zadeh, F. Castelli & S. Sanchez
     #publisher: Cambridge University Press
@@ -269,6 +281,7 @@ mixture density networks"
     pages: 1183-1202
     doi: 10.1111/j.1365-246X.2012.05429.x
     pdf: Valentine2012.pdf
+    repository: https://github.com/valentineap/autoencoder
 
   - title: Approaches to automatic data selection for global seismic tomography
     year: 2010
