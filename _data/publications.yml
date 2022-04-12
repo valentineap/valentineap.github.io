@@ -37,9 +37,12 @@ papers:
 
   - title: Upscaling and downscaling geophysical model ensembles with generative models
     authors: M. Scheiter, <b>A.P. Valentine</b> & M. Sambridge
-    year: <em>in press</em>
+    year: 2022
     journal: Geophysical Journal International
+    volume: 230
+    pages: 916-931
     doi: 10.1093/gji/ggac100
+    pdf: Scheiter2022.pdf
     repository: https://github.com/MScheiter/gan_mcmc
 
   - title: "Structure and properties of alkali aluminosilicate glasses and melts: insights from deep learning"
