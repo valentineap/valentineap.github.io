@@ -13,11 +13,6 @@ papers:
     journal: Journal of Open Source Software
     repository: https://github.com/valentineap/pyprop8
 
-  - title: Geophysical inversion and optimal transport
-    authors: M. Sambridge, A. Jackson & <b>A.P. Valentine</b>
-    year: <em>in press</em>
-    journal: Geophysical Journal International
-
   - title: "Observations and models of dynamic topography: Current status and future directions"
     authors: D.R. Davies, S. Ghelichkhan, M.J. Hoggard, <b>A.P. Valentine</b> and F.D. Richards
     year: <em>in press</em>
@@ -34,6 +29,12 @@ papers:
     #editors: A. Ismail-Zadeh, F. Castelli & S. Sanchez
     #publisher: Cambridge University Press
     preprint: http://arxiv.org/abs/2110.06017
+
+  - title: Geophysical inversion and optimal transport
+    authors: M. Sambridge, A. Jackson & <b>A.P. Valentine</b>
+    year: <em>in press</em>
+    journal: Geophysical Journal International
+    doi: 10.1093/gji/ggac151
 
   - title: Upscaling and downscaling geophysical model ensembles with generative models
     authors: M. Scheiter, <b>A.P. Valentine</b> & M. Sambridge
