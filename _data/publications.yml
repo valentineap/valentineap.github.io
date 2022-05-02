@@ -35,6 +35,8 @@ papers:
     year: <em>in press</em>
     journal: Geophysical Journal International
     doi: 10.1093/gji/ggac151
+    preprint: https://arxiv.org/abs/2204.14027
+    repository: https://github.com/msambridge/waveform-ot
 
   - title: Upscaling and downscaling geophysical model ensembles with generative models
     authors: M. Scheiter, <b>A.P. Valentine</b> & M. Sambridge
