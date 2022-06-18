@@ -1,7 +1,9 @@
 ---
 layout: default
 title: CV
+toc: true
 ---
+
 
 ## Education
 
