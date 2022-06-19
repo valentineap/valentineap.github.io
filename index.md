@@ -16,4 +16,4 @@ Latest updates:
   {% endfor %}
 </ul>
 
-For a full listing of previous posts, see [the archive]({{ site.home }}/archive.html)
+For a full listing of previous posts, see [the archive]({{ site.home }}/archive.html).
