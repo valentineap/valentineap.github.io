@@ -32,8 +32,10 @@ papers:
 
   - title: Geophysical inversion and optimal transport
     authors: M. Sambridge, A. Jackson & <b>A.P. Valentine</b>
-    year: <em>in press</em>
+    year: 2022
     journal: Geophysical Journal International
+    volume: 231
+    pages: 172-198
     doi: 10.1093/gji/ggac151
     preprint: https://arxiv.org/abs/2204.14027
     repository: https://github.com/msambridge/waveform-ot
