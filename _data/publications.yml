@@ -7,15 +7,7 @@ papers:
 
 
 
-  - title: "pyprop8: A lightweight code to simulate seismic observables in a layered half-space"
-    authors: <b>A.P. Valentine</b> & M. Sambridge
-    year: 2022
-    journal: Journal of Open Source Software
-    volume: 7
-    pages: 4217
-    doi: 10.21105/joss.04217
-    pdf: Valentine2022.pdf
-    repository: https://github.com/valentineap/pyprop8
+
 
   - title: "Observations and models of dynamic topography: Current status and future directions"
     authors: D.R. Davies, S. Ghelichkhan, M.J. Hoggard, <b>A.P. Valentine</b> and F.D. Richards
@@ -33,6 +25,16 @@ papers:
     #editors: A. Ismail-Zadeh, F. Castelli & S. Sanchez
     #publisher: Cambridge University Press
     preprint: http://arxiv.org/abs/2110.06017
+
+  - title: "pyprop8: A lightweight code to simulate seismic observables in a layered half-space"
+    authors: <b>A.P. Valentine</b> & M. Sambridge
+    year: 2022
+    journal: Journal of Open Source Software
+    volume: 7
+    pages: 4217
+    doi: 10.21105/joss.04217
+    pdf: Valentine2022.pdf
+    repository: https://github.com/valentineap/pyprop8
 
   - title: Geophysical inversion and optimal transport
     authors: M. Sambridge, A. Jackson & <b>A.P. Valentine</b>
