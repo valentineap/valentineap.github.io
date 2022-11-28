@@ -69,8 +69,7 @@ papers:
     blog: https://medium.com/pytorch/from-windows-to-volcanoes-how-pytorch-is-helping-us-understand-glass-8720d480f4f2
     interactive: https://share.streamlit.io/charlesll/i-melt/imelt_streamlit.py
 
-  - title: "Inferring material properties of the lower mantle minerals using
-mixture density networks"
+  - title: "Inferring material properties of the lower mantle minerals using mixture density networks"
     year: 2021
     authors: A. Rijal, L. Cobden, J. Trampert, J. Jackson and <b>A. Valentine</b>
     journal: Physics of the Earth and Planetary Interiors

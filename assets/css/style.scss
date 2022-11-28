@@ -29,3 +29,33 @@
   text-align: right;
   float: right;
 }
+
+body {
+  background-color: #fff;
+  padding:50px;
+  font: 16px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#727272;
+  font-weight:400;
+}
+.wrapper {
+  width:1000px;
+  margin:0 auto;
+}
+section {
+  width:650px;
+  float:right;
+  padding-bottom:50px;
+}
+
+
+table, th, td {
+  border: 0px solid black;
+  padding-left: 0px;
+  padding-right: 15px;
+  vertical-align: top;
+}
+
+a:hover, a:focus {
+  color:#069;
+  font-weight: normal;
+}

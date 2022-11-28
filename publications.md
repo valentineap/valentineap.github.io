@@ -4,6 +4,8 @@ title: Publications
 ---
 My Google Scholar profile can be found [here](https://scholar.google.co.uk/citations?user=TiVeAN8AAAAJ) and my ORCID is [0000-0001-6134-9351](https://orcid.org/0000-0001-6134-9351). Please [contact me](mailto:andrew.valentine@durham.ac.uk) if you encounter difficulties in accessing any of my papers.
 
+To understand the bigger picture of how these papers fit together, take a look at my [research pages](/research.html).
+
 <ol reversed>
 {%- for _p in site.data.publications.papers -%}
   <li> {{ _p.authors}}, {{ _p.year }}.<br />{{ _p.title }}.<br />
