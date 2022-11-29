@@ -10,6 +10,8 @@ I wrote an [introduction to machine learning](/files/Valentine2016a.pdf) aimed a
 
 - [Deep learning](#deep-learning)
 - [Data processing](#data-processing)
+    - [Seismogram quality control](#seismogram-quality-control)
+    - [Finding seamounts](#finding-seamounts)
 - [Prior sampling](#prior-sampling)
 - [Inverse theory](#inverse-theory)
 
@@ -21,21 +23,26 @@ I developed some of the first applications of deep learning in geophysics. A pap
 <center>
 <img src="/images/autoencoder.png" alt="Autoencoder" width="400"/>
 </center>
-*Schematic of an autoencoder network.[^1]*
+*Schematic of an autoencoder network.[^2]*
 
-We went on to explore the use of autoencoders for preprocessing data prior to inversion (unpublised; see Chapter 8 of [Ralph de Wit's PhD thesis](https://dspace.library.uu.nl/bitstream/handle/1874/315583/dewit.pdf)), and they became part of the workflow Suzanne Atkins developed for [geodynamic inference](/files/Atkins2016.pdf).[^3] I also used them to develop an automated data-processing framework for geomorphology -- [see below](#data-processing).
+We went on to explore the use of autoencoders for preprocessing seismic data prior to inversion (unpublished; see Chapter 8 of [Ralph de Wit's PhD thesis](https://dspace.library.uu.nl/bitstream/handle/1874/315583/dewit.pdf)), and they became part of the workflow Suzanne Atkins developed for [geodynamic inference](/files/Atkins2016.pdf).[^3] I also used them to develop an automated data-processing framework for geomorphology -- [see below](#finding-seamounts).
 
-More recently I have worked with Charles Le Losq on using a deep neural network to infer physical properties of molten glass, discussed in more detail [here](/research/other.html).[^4]
+More recently I have worked with Charles Le Losq on using deep neural networks to [infer physical properties](/files/LeLosq2021.pdf) of molten glass.[^4]
 
 [<i class="fas fa-square-caret-up" /> Contents](#contents)<br/>
 
 ---
 
 ### Data processing
+
+#### Seismogram quality control
+A classic application of machine learning is to support data processing, particularly for tasks that are difficult to fully quantify and traditionally rely on the intuition of an experienced analyst. During my PhD, I developed a [neural network framework](/files/Valentine2010a.pdf) for performing quality assessment of long-period seismograms recorded at teleseismic distances.[^5] This aimed to automate basic quality control tasks, using a simplified representation of the spectral properties of 'good' and 'unusable' data selected by the operator. A Python/Tkinter GUI -- unfortunately now lost -- allowed the user to classify data and train the network in an 'online' mode; this was my first major Python project. We later re-implemented the quality assessment task in the time domain using the autoencoder.[^2]
+
+
+#### Finding seamounts
 <img src="/images/atlantic_seamounts.png" alt="Seamounts in the Atlantic"/>
 *Seamounts in the Atlantic Ocean -- detected using an autoencoder. [^6]*
 
-A classic application of machine learning is to support data processing, particularly for tasks that are difficult to fully quantify and traditionally rely on the intuition of an experienced analyst. During my PhD, I developed a [neural network framework](/files/Valentine2010a.pdf) for performing quality assessment of long-period seismograms recorded at teleseismic distances.[^5] This aimed to automate basic quality control tasks, using a simplified representation of the spectral properties of 'good' and 'unusable' data selected by the operator. A Python/Tkinter GUI -- unfortunately now lost -- allowed the user to classify data and train the network in an 'online' mode; this was my first major Python project. We later re-implemented the quality assessment task in the time domain using the autoencoder.[^1]
 
 We know surprisingly little about the world's oceans. One fairly open question concerns the number and distribution -- spatially, temporally and by size -- of seamounts, or underwater volcanoes. Topographic maps of the sea floor have variable resolution, generally being inferred from satellite gravity measurements, combined with whatever direct observations (e.g. SONAR) happen to be available. Seamounts (or at least, large seamounts) are fairly easy to detect visually in these maps, but the scale of the oceans makes comprehensive visual classification unfeasible. [Kim & Wessel](https://academic.oup.com/gji/article/186/2/615/588187) had developed an automated detection algorithm that attempted to detect seamounts by modelling them as 2D Gaussians, but this simple model fails to capture the full range of features seen in real data. This seemed like an ideal task for a neural network -- but using a conventional classifier was not straightforward, as it proved difficult to create a training set with a sufficiently-representative suite of 'not seamounts'. We therefore developed [a novel approach](/files/Valentine2013.pdf) that used an autoencoder trained only on seamount-like topography.[^6] The result was a low-dimensional representation that performed well for seamounts (i.e. the training data could be accurately reconstructed), but poorly for everything else. Reconstruction error can therefore be used as to measure how well any site matches the characteristics of the training dataset, and hence automatically detect seamounts.
 

@@ -9,7 +9,7 @@ My research centres on **geophysical inversion and inference**: the mathematical
 |  |  |  | 
 |:-:|:-:|:-:|
 |<a href="/research/inversetheory.html">Inverse theory<br/><br/><br/><img src="/images/lsq.png" alt="The least squares solution" width="200"/></a>| <a href="/research/machinelearning.html">Machine Learning<br/><img src="/images/autoencoder.png" alt="Autoencoder" width="200"/></a> | <a href="/research/priorsampling.html">Prior sampling<br/><img src="/images/gmm.png" alt="Gaussian Mixture Model" width="200"/></a> |
-| <a href="/research/numerical.html">Numerical modelling<br /><img src="/images/pyprop8_snapshot.png" alt="A seismic wavefield" width="200"/></a> | [Earthquakes](/research/earthquakes.html) | [Earth structure and dynamics](/research/structure.html) |
-| [Other applications](/research/other.html) |
+| <a href="/research/numerical.html">Numerical modelling<br /><img src="/images/pyprop8_snapshot.png" alt="A seismic wavefield" width="200"/></a> | <a href="/research/earthquakes.html">Earthquakes<br /><br/><br/><img src="/images/etew_schematic.png" alt="Earthquake early warning" width="200"></a> | [Earth structure, properties and processes](/research/structure.html) |
+
 
 
