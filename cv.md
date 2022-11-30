@@ -24,7 +24,7 @@ toc: true
 | 2021&#8209; | Departmental IT Lead, Department of Earth Sciences, Durham University. |
 | 2020&#8209; | Editor, [Geophysical Journal International](https://academic.oup.com/gji). |
 | 2020&#8209; | Seismology Steering Committee member, [CIG](https://geodynamics.org). |
-| 2018&#8209; | Director, [InLab](https://www.inlab.org.au/). |
+| 2018&#8209; | Director, [InLab](https://www.inlab.edu.au/). |
 
 ### Honours, awards and recognition
 
