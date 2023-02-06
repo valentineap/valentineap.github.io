@@ -2,16 +2,10 @@ papers:
   # - title: Overcomplete Tomography
   #   authors: B. Turunçtur, <b>A.P. Valentine</b> & M. Sambridge
   #   year: <em>in review</em>
-  #
-
-
-
-
-  - title: "Reply to comment on <em>Geophysical inversion and optimal transport</em>, 231, 172-198, by Okazaki and Ueda"
-    authors:  M. Sambridge, A. Jackson & <b>A.P. Valentine</b>
-    year: <em>in press</em>
-    journal: Geophysical Journal International
-    doi: 10.1093/gji/ggad002
+  # - title: "GEORGIA: a Graphic neural network based EmulatOR for Glacial Isostatic Adjustment"
+  #   authors: Y. Lin, P.L. Whitehouse & <b>A.P. Valentine</b>
+  #   year: <em>in review</em>
+  
 
   - title: "Observations and models of dynamic topography: Current status and future directions"
     authors: D.R. Davies, S. Ghelichkhan, M.J. Hoggard, <b>A.P. Valentine</b> and F.D. Richards
@@ -29,6 +23,14 @@ papers:
     #editors: A. Ismail-Zadeh, F. Castelli & S. Sanchez
     #publisher: Cambridge University Press
     preprint: http://arxiv.org/abs/2110.06017
+
+  - title: "Reply to <a href='https://doi.org/10.1093/gji/ggad001'>comment</a> on <em>Geophysical inversion and optimal transport</em>, 231, 172-198, by Okazaki and Ueda"
+    authors:  M. Sambridge, A. Jackson & <b>A.P. Valentine</b>
+    year: 2023
+    journal: Geophysical Journal International
+    volume: 233
+    pages: 1488-1491
+    doi: 10.1093/gji/ggad002
 
   - title: "pyprop8: A lightweight code to simulate seismic observables in a layered half-space"
     authors: <b>A.P. Valentine</b> & M. Sambridge
