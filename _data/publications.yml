@@ -7,14 +7,7 @@ papers:
   #   year: <em>in review</em>
   
 
-  - title: "Observations and models of dynamic topography: Current status and future directions"
-    authors: D.R. Davies, S. Ghelichkhan, M.J. Hoggard, <b>A.P. Valentine</b> and F.D. Richards
-    year: <em>in press</em>
-    booktitle: Dynamics of plate tectonics and mantle convection
-    editors: J.C. Duarte
-    publisher: Elsevier
-    preprint: https://eartharxiv.org/repository/view/3251/
-    repository: https://github.com/valentineap/DynamicTopographyGP
+
 
   - title: "Emerging directions in geophysical inversion"
     authors: <b>A.P. Valentine</b> & M. Sambridge
@@ -23,6 +16,17 @@ papers:
     #editors: A. Ismail-Zadeh, F. Castelli & S. Sanchez
     #publisher: Cambridge University Press
     preprint: http://arxiv.org/abs/2110.06017
+
+  - title: "Observations and models of dynamic topography: Current status and future directions"
+    authors: D.R. Davies, S. Ghelichkhan, M.J. Hoggard, <b>A.P. Valentine</b> and F.D. Richards
+    year: 2023
+    booktitle: Dynamics of plate tectonics and mantle convection
+    editors: J.C. Duarte
+    publisher: Elsevier
+    #pages: 223-269
+    doi: 10.1016/B978-0-323-85733-8.00017-2
+    preprint: https://eartharxiv.org/repository/view/3251/
+    repository: https://github.com/valentineap/DynamicTopographyGP
 
   - title: "Reply to <a href='https://doi.org/10.1093/gji/ggad001'>comment</a> on <em>Geophysical inversion and optimal transport</em>, 231, 172-198, by Okazaki and Ueda"
     authors:  M. Sambridge, A. Jackson & <b>A.P. Valentine</b>
