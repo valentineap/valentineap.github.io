@@ -1,12 +1,22 @@
 papers:
-  # - title: Overcomplete Tomography
-  #   authors: B. Turunçtur, <b>A.P. Valentine</b> & M. Sambridge
+  # - title: ???
+  #   authors: M. Scheiter, R. Hawkins, J. Trampert, <b>A.P.Valentine</b> & M. Sambridge
   #   year: <em>in review</em>
-  # - title: "GEORGIA: a Graphic neural network based EmulatOR for Glacial Isostatic Adjustment"
-  #   authors: Y. Lin, P.L. Whitehouse & <b>A.P. Valentine</b>
+
+  # - title: "Espresso: Earth Science Problems for the Evaluation of Strategies, Solvers and Optimizers"
+  #   authors: <b>A.P. Valentine</b>, J. He, J. Hauser & M. Sambridge
+  #   year: <em>in review</em>
+
+
+
+  # - title: "GEORGIA: a Graph neural network based EmulatOR for Glacial Isostatic Adjustment"
+  #   authors: Y. Lin, P.L. Whitehouse, <b>A.P. Valentine</b> & S. Woodroffe
   #   year: <em>in review</em>
   
-
+  - title: Overcomplete Tomography
+    authors: B. Turunçtur, <b>A.P. Valentine</b> & M. Sambridge
+    year: <em>in presw</em>
+    journal: RAS Techniques and Instruments
 
 
   - title: "Emerging directions in geophysical inversion"
@@ -140,7 +150,7 @@ papers:
   - title: Hydrogeological Bayesian hypothesis testing through trans-dimensional sampling of a stochastic water balance model
     year: 2019
     authors: T. Enemark, L.J.M. Peeters, D. Mallants, O. Batelaan, <b>A.P. Valentine</b> and M. Sambridge
-    journal: Geophysical Journal International
+    journal: Water
     volume: 11
     pages: 1463
     doi: 10.3390/w11071463
