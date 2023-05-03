@@ -7,18 +7,10 @@ papers:
   #   authors: <b>A.P. Valentine</b>, J. He, J. Hauser & M. Sambridge
   #   year: <em>in review</em>
 
-
-
   # - title: "GEORGIA: a Graph neural network based EmulatOR for Glacial Isostatic Adjustment"
   #   authors: Y. Lin, P.L. Whitehouse, <b>A.P. Valentine</b> & S. Woodroffe
   #   year: <em>in review</em>
   
-  - title: Overcomplete Tomography
-    authors: B. Turunçtur, <b>A.P. Valentine</b> & M. Sambridge
-    year: <em>in press</em>
-    journal: RAS Techniques and Instruments
-
-
   - title: "Emerging directions in geophysical inversion"
     authors: <b>A.P. Valentine</b> & M. Sambridge
     year: <em>in press</em>
@@ -26,6 +18,18 @@ papers:
     #editors: A. Ismail-Zadeh, F. Castelli & S. Sanchez
     #publisher: Cambridge University Press
     preprint: http://arxiv.org/abs/2110.06017
+
+
+  - title: "Overcomplete Tomography: A novel approach to imaging"
+    authors: B. Turunçtur, <b>A.P. Valentine</b> & M. Sambridge
+    year: 2023
+    journal: RAS Techniques and Instruments
+    volume: 2
+    pages: 207-215
+    doi: 10.1093/rasti/rzad010
+    pdf: Turunctur2023.pdf
+    repository: https://github.com/buseet/OvercompleteTomo
+
 
   - title: "Observations and models of dynamic topography: Current status and future directions"
     authors: D.R. Davies, S. Ghelichkhan, M.J. Hoggard, <b>A.P. Valentine</b> and F.D. Richards
