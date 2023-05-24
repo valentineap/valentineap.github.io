@@ -13,10 +13,10 @@ papers:
   
   - title: "Emerging directions in geophysical inversion"
     authors: <b>A.P. Valentine</b> & M. Sambridge
-    year: <em>in press</em>
-    #booktitle: Data assimilation and inverse problems in geophysical sciences
-    #editors: A. Ismail-Zadeh, F. Castelli & S. Sanchez
-    #publisher: Cambridge University Press
+    year: 2023
+    booktitle: Applications of Data Assimilation and Inverse Problems in the Earth Sciences
+    editors: A. Ismail-Zadeh, F. Castelli, D. Jones & S. Sanchez
+    publisher: Cambridge University Press
     preprint: http://arxiv.org/abs/2110.06017
 
 
