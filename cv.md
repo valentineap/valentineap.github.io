@@ -12,9 +12,9 @@ toc: true
 
 ### Academic employment
 
-| 2021&#8209; | Assistant Professor, [Department of Earth Sciences](https://www.durham.ac.uk/departments/academic/earth-sciences/), Durham University. |
-| 2016&#8209;2021 | Fellow, [Research School of Earth Sciences](https://earthsciences.anu.edu.au), The Australian National University.|
-| 2011&#8209;2016 | Postdoctoral Researcher, [Department of Earth Sciences](https://www.uu.nl/en/organisation/faculty-of-geosciences), Utrecht University.|
+| 2021&#8209; | [Department of Earth Sciences](https://www.durham.ac.uk/departments/academic/earth-sciences/), Durham University.<br /> Assistant Professor (2021-2023); Associate Professor (2023-present).|
+| 2016&#8209;2021 | [Research School of Earth Sciences](https://earthsciences.anu.edu.au), The Australian National University.<br />Fellow.|
+| 2011&#8209;2016 | [Department of Earth Sciences](https://www.uu.nl/en/organisation/faculty-of-geosciences), Utrecht University.<br />Postdoctoral researcher.|
 
 
 
