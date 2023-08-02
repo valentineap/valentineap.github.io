@@ -20,10 +20,11 @@ toc: true
 
 ### Major roles and responsibilities
 
+| 2023&#8209; | Secretary, [IUGG](https://iugg.org) [Commission on Mathematical Geophysics](https://iugg.org/associations-commissions/commissions/cmg/). |
 | 2022&#8209;2023 | External Examiner, [AI4ER CDT](https://ai4er-cdt.esc.cam.ac.uk) MRes programme, University of Cambridge. |
 | 2021&#8209; | Departmental IT Lead, Department of Earth Sciences, Durham University. |
 | 2020&#8209; | Editor, [Geophysical Journal International](https://academic.oup.com/gji). |
-| 2020&#8209; | Seismology Steering Committee member, [CIG](https://geodynamics.org). |
+| 2020&#8209;2022 | Seismology Steering Committee member, [CIG](https://geodynamics.org). |
 | 2018&#8209; | Director, [InLab](https://www.inlab.edu.au/). |
 
 ### Honours, awards and recognition
