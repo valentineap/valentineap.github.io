@@ -1,15 +1,9 @@
 papers:
-  # - title: ???
-  #   authors: M. Scheiter, R. Hawkins, J. Trampert, <b>A.P.Valentine</b> & M. Sambridge
-  #   year: <em>in review</em>
-
-  # - title: "Espresso: Earth Science Problems for the Evaluation of Strategies, Solvers and Optimizers"
-  #   authors: <b>A.P. Valentine</b>, J. He, J. Hauser & M. Sambridge
-  #   year: <em>in review</em>
-
-  # - title: "GEORGIA: a Graph neural network based EmulatOR for Glacial Isostatic Adjustment"
-  #   authors: Y. Lin, P.L. Whitehouse, <b>A.P. Valentine</b> & S. Woodroffe
-  #   year: <em>in review</em>
+  - title: "GEORGIA: a Graph neural network based EmulatOR for Glacial Isostatic Adjustment"
+    authors: Y. Lin, P.L. Whitehouse, <b>A.P. Valentine</b> & S.A. Woodroffe
+    year: <em>in press</em>
+    journal: Geophysical Research Letters
+    repository: https://github.com/yc-lin-geo/Georgia_GIA
   
   - title: "Emerging directions in geophysical inversion"
     authors: <b>A.P. Valentine</b> & M. Sambridge
