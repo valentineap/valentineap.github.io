@@ -21,11 +21,11 @@ toc: true
 ### Major roles and responsibilities
 
 | 2023&#8209; | Secretary, [IUGG](https://iugg.org) [Commission on Mathematical Geophysics](https://iugg.org/associations-commissions/commissions/cmg/). |
-| 2022&#8209;2023 | External Examiner, [AI4ER CDT](https://ai4er-cdt.esc.cam.ac.uk) MRes programme, University of Cambridge. |
+| 2022&#8209; | External Examiner, MRes Environmental Data Science, University of Cambridge. |
 | 2021&#8209; | Departmental IT Lead, Department of Earth Sciences, Durham University. |
 | 2020&#8209; | Editor, [Geophysical Journal International](https://academic.oup.com/gji). |
-| 2020&#8209;2022 | Seismology Steering Committee member, [CIG](https://geodynamics.org). |
 | 2018&#8209; | Director, [InLab](https://www.inlab.edu.au/). |
+| 2020&#8209;2022 | Seismology Steering Committee member, [CIG](https://geodynamics.org). |
 
 ### Honours, awards and recognition
 
@@ -39,6 +39,7 @@ toc: true
 ### PhD student supervision
 
 I have been formally named as supervisor for the following completed PhD theses:
+- Matthias Scheiter, *Studies in Monte Carlo inversion and generative deep learning*, The Australian National University, <em>submitted</em>.
 - Suzanne Atkins, [*Finding the patterns in mantle convection*](http://dspace.library.uu.nl/bitstream/handle/1874/349108/Atkins.pdf), Utrecht University, 2017.
 - Paul Käufl, [*Rapid probabilistic source inversion using pattern recognition*](https://dspace.library.uu.nl/bitstream/handle/1874/321502/kaufl.pdf), Utrecht University, 2016.
 - Ralph de Wit, [*Revisiting Earth's radial seismic structure with a Bayesian neural network approach*](https://dspace.library.uu.nl/bitstream/handle/1874/315583/dewit.pdf), Utrecht University, 2015.
