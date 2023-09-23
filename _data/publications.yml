@@ -5,6 +5,7 @@ papers:
     volume: e2023GL103672
     journal: Geophysical Research Letters
     doi: 10.1029/2023GL103672
+    pdf: Lin2023.pdf
     repository: https://github.com/yc-lin-geo/Georgia_GIA
   
   - title: "Emerging directions in geophysical inversion"
