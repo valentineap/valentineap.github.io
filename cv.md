@@ -39,7 +39,7 @@ toc: true
 ### PhD student supervision
 
 I have been formally named as supervisor for the following completed PhD theses:
-- Matthias Scheiter, *Studies in Monte Carlo inversion and generative deep learning*, The Australian National University, <em>submitted</em>.
+- Matthias Scheiter, [*Studies in Monte Carlo inversion and generative deep learning*](https://doi.org/10.25911/NZX0-8H25), The Australian National University, 2023.
 - Suzanne Atkins, [*Finding the patterns in mantle convection*](http://dspace.library.uu.nl/bitstream/handle/1874/349108/Atkins.pdf), Utrecht University, 2017.
 - Paul Käufl, [*Rapid probabilistic source inversion using pattern recognition*](https://dspace.library.uu.nl/bitstream/handle/1874/321502/kaufl.pdf), Utrecht University, 2016.
 - Ralph de Wit, [*Revisiting Earth's radial seismic structure with a Bayesian neural network approach*](https://dspace.library.uu.nl/bitstream/handle/1874/315583/dewit.pdf), Utrecht University, 2015.
