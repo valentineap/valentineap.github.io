@@ -1,4 +1,15 @@
 papers:
+  - title: "Trans-conceptual sampling: Bayesian inference with competing assumptions"
+    authors: M. Sambridge, <b>A.P. Valentine</b> & J. Hauser
+    year: in review
+    journal: "Journal of Geophysical Research: Solid Earth"
+
+  - title: Bayesian Inference in Geophysics with AI-enhanced Markov chain Monte Carlo
+    authors: M. Scheiter, <b>A.P. Valentine</b> & M. Sambridge 
+    year: in review
+    journal: "Journal of Geophysical Research: Solid Earth"
+    preprint:
+
   - title: "GEORGIA: a Graph neural network based EmulatOR for Glacial Isostatic Adjustment"
     authors: Y. Lin, P.L. Whitehouse, <b>A.P. Valentine</b> & S.A. Woodroffe
     year: 2023
