@@ -21,14 +21,15 @@ toc: true
 ### Major roles and responsibilities
 
 | 2023&#8209; | Secretary, [IUGG](https://iugg.org) [Commission on Mathematical Geophysics](https://iugg.org/associations-commissions/commissions/cmg/). |
-| 2022&#8209; | External Examiner, MRes Environmental Data Science, University of Cambridge. |
 | 2021&#8209; | Departmental IT Lead, Department of Earth Sciences, Durham University. |
 | 2020&#8209; | Editor, [Geophysical Journal International](https://academic.oup.com/gji). |
 | 2018&#8209; | Director, [InLab](https://www.inlab.edu.au/). |
+| 2022&#8209;2024 | External Examiner, MRes Environmental Data Science, University of Cambridge. |
 | 2020&#8209;2022 | Seismology Steering Committee member, [CIG](https://geodynamics.org). |
 
 ### Honours, awards and recognition
 
+| 2025 | Harold Jeffreys Lectureship, Royal Astronomical Society |
 | 2021&#8209; | Honorary Senior Lecturer, Research School of Earth Sciences, The Australian National University |
 | 2018&#8209;2021 | [ARC DECRA Fellowship](https://www.arc.gov.au/funding-research/funding-schemes/discovery-program/discovery-early-career-researcher-award-decra) |
 | 2019 | Geophysical Journal International Outstanding Reviewer citation |
@@ -39,7 +40,7 @@ toc: true
 ### PhD student supervision
 
 I have been formally named as supervisor for the following completed PhD theses:
-- Buse Turunçtur, *Studies in sparsity constrained appraches to geophysical inversion*, The Australian National University, *submitted*.
+- Buse Turunçtur, *Studies in sparsity constrained appraches to geophysical inversion*, The Australian National University, 2025.
 - Matthias Scheiter, [*Studies in Monte Carlo inversion and generative deep learning*](https://doi.org/10.25911/NZX0-8H25), The Australian National University, 2024.
 - Suzanne Atkins, [*Finding the patterns in mantle convection*](http://dspace.library.uu.nl/bitstream/handle/1874/349108/Atkins.pdf), Utrecht University, 2017.
 - Paul Käufl, [*Rapid probabilistic source inversion using pattern recognition*](https://dspace.library.uu.nl/bitstream/handle/1874/321502/kaufl.pdf), Utrecht University, 2016.
