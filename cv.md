@@ -40,7 +40,7 @@ toc: true
 ### PhD student supervision
 
 I have been formally named as supervisor for the following completed PhD theses:
-- Buse Turunçtur, *Studies in sparsity constrained appraches to geophysical inversion*, The Australian National University, 2025.
+- Buse Turunçtur, [*Studies in sparsity constrained appraches to geophysical inversion*](https://doi.org/10.25911/129Y-YH38), The Australian National University, 2025.
 - Matthias Scheiter, [*Studies in Monte Carlo inversion and generative deep learning*](https://doi.org/10.25911/NZX0-8H25), The Australian National University, 2024.
 - Suzanne Atkins, [*Finding the patterns in mantle convection*](http://dspace.library.uu.nl/bitstream/handle/1874/349108/Atkins.pdf), Utrecht University, 2017.
 - Paul Käufl, [*Rapid probabilistic source inversion using pattern recognition*](https://dspace.library.uu.nl/bitstream/handle/1874/321502/kaufl.pdf), Utrecht University, 2016.
