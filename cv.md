@@ -20,17 +20,18 @@ toc: true
 
 ### Major roles and responsibilities
 
+| 2025&#8209; | Director of Education, Department of Earth Sciences, Durham University. |
 | 2023&#8209; | Secretary, [IUGG](https://iugg.org) [Commission on Mathematical Geophysics](https://iugg.org/associations-commissions/commissions/cmg/). |
 | 2021&#8209; | Departmental IT Lead, Department of Earth Sciences, Durham University. |
-| 2020&#8209; | Editor, [Geophysical Journal International](https://academic.oup.com/gji). |
 | 2018&#8209; | Director, [InLab](https://www.inlab.edu.au/). |
+| 2020&#8209;2025 | Editor, [Geophysical Journal International](https://academic.oup.com/gji). |
 | 2022&#8209;2024 | External Examiner, MRes Environmental Data Science, University of Cambridge. |
 | 2020&#8209;2022 | Seismology Steering Committee member, [CIG](https://geodynamics.org). |
 
 ### Honours, awards and recognition
 
 | 2025 | Harold Jeffreys Lectureship, Royal Astronomical Society |
-| 2021&#8209; | Honorary Senior Lecturer, Research School of Earth Sciences, The Australian National University |
+| 2021&#8209;2025 | Honorary Senior Lecturer, Research School of Earth Sciences, The Australian National University |
 | 2018&#8209;2021 | [ARC DECRA Fellowship](https://www.arc.gov.au/funding-research/funding-schemes/discovery-program/discovery-early-career-researcher-award-decra) |
 | 2019 | Geophysical Journal International Outstanding Reviewer citation |
 | 2016 | Geophysical Journal International Outstanding Reviewer citation |
