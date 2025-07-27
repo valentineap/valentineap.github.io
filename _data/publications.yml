@@ -13,8 +13,11 @@ papers:
 
   - title: "How double-slab subduction shaped the East Anatolian Plateau: Insights from geodynamic models"
     authors: U. Çetiner, J. van Hunen, O. Göğüș, <b>A.P. Valentine</b> & M. Allen
-    year: <i>in press</i>
+    year: 2025
     journal: Geology
+    doi: 10.1130/G53134.1
+    pdf: Cetiner2025.pdf
+    supplement: Cetiner2025_supp.docx
 
   - title: "GEORGIA: a Graph neural network based EmulatOR for Glacial Isostatic Adjustment"
     authors: Y. Lin, P.L. Whitehouse, <b>A.P. Valentine</b> & S.A. Woodroffe
