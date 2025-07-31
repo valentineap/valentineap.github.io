@@ -1,15 +1,15 @@
 papers:
 
-  - title: "Trans-conceptual sampling: Bayesian inference with competing assumptions"
-    authors: M. Sambridge, <b>A.P. Valentine</b> & J. Hauser
-    year: <i>in review</i>
-    journal: "Journal of Geophysical Research: Solid Earth"
-    preprint: https://essopenarchive.org/doi/full/10.22541/essoar.172854573.34794314/v1
-
   - title: Bayesian Inference in Geophysics with AI-enhanced Markov chain Monte Carlo
     authors: M. Scheiter, <b>A.P. Valentine</b> & M. Sambridge 
     year: <i>preprint</i>
     preprint: https://essopenarchive.org/doi/full/10.22541/essoar.172854555.54637562/v1
+  
+  - title: "Trans-conceptual sampling: Bayesian inference with competing assumptions"
+    authors: M. Sambridge, <b>A.P. Valentine</b> & J. Hauser
+    year: <i>in press</i>
+    journal: "Journal of Geophysical Research: Solid Earth"
+    preprint: https://essopenarchive.org/doi/full/10.22541/essoar.172854573.34794314/v1
 
   - title: "How double-slab subduction shaped the East Anatolian Plateau: Insights from geodynamic models"
     authors: U. Çetiner, J. van Hunen, O. Göğüș, <b>A.P. Valentine</b> & M. Allen
