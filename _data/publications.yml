@@ -9,7 +9,9 @@ papers:
     authors: M. Sambridge, <b>A.P. Valentine</b> & J. Hauser
     year: <i>in press</i>
     journal: "Journal of Geophysical Research: Solid Earth"
+    doi: 10.1029/2024JB030470
     preprint: https://essopenarchive.org/doi/full/10.22541/essoar.172854573.34794314/v1
+    repository: https://github.com/inlab-geo/pyTransC
 
   - title: "How double-slab subduction shaped the East Anatolian Plateau: Insights from geodynamic models"
     authors: U. Çetiner, J. van Hunen, O. Göğüș, <b>A.P. Valentine</b> & M. Allen
