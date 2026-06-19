@@ -1,13 +1,15 @@
 papers:
 
-  - title: Bayesian Inference in Geophysics with AI-enhanced Markov chain Monte Carlo
-    authors: M. Scheiter, <b>A.P. Valentine</b> & M. Sambridge 
-    year: <i>preprint</i>
-    preprint: https://essopenarchive.org/doi/full/10.22541/essoar.172854555.54637562/v1
+ 
   
+  - title: "Gaussian processes for probabilistic seismic wavefield simulation"
+    authors: O.A. Humphreys & <b>A.P. Valentine</b>
+    year: <i>in review</i>
+    journal: Geophysical Journal International
+    
   - title: "Trans-conceptual sampling: Bayesian inference with competing assumptions"
     authors: M. Sambridge, <b>A.P. Valentine</b> & J. Hauser
-    year: <i>in press</i>
+    year: 2025
     journal: "Journal of Geophysical Research: Solid Earth"
     doi: 10.1029/2024JB030470
     preprint: https://essopenarchive.org/doi/full/10.22541/essoar.172854573.34794314/v1
@@ -20,6 +22,11 @@ papers:
     doi: 10.1130/G53134.1
     pdf: Cetiner2025.pdf
     supplement: Cetiner2025_supp.docx
+
+  - title: Bayesian Inference in Geophysics with AI-enhanced Markov chain Monte Carlo
+    authors: M. Scheiter, <b>A.P. Valentine</b> & M. Sambridge 
+    year: <i>preprint</i>
+    preprint: https://essopenarchive.org/doi/full/10.22541/essoar.172854555.54637562/v1
 
   - title: "GEORGIA: a Graph neural network based EmulatOR for Glacial Isostatic Adjustment"
     authors: Y. Lin, P.L. Whitehouse, <b>A.P. Valentine</b> & S.A. Woodroffe
